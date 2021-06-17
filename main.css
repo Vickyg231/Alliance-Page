@@ -1,0 +1,23 @@
+.left
+{
+  text-align: center;
+  
+
+}
+
+.button
+{
+
+  background:blue;
+  font-size: 15px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-align: center;
+  margin: fixed;
+
+}
+a
+{
+  color:white;
+  text-decoration: none;
+}
